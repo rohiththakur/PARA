@@ -15,3 +15,5 @@ pipeline {
                 echo "Hello ${params.ENVIRONMENT}"
             }
         }
+ }
+}
